@@ -1,7 +1,0 @@
-potion 15 0 0
-blade 15 10 10
-axe 20 20 0
-bat 5 15 5
-shield 30 0 15
-potion 15 0 0
-potion 15 0 0
