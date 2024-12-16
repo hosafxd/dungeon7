@@ -74,7 +74,7 @@ Each victory not only symbolizes physical triumph but also represents moral grow
    
 2. **Build the Game: Use the provided Makefile to compile the game**:
    ```bash
-   make
+   gcc main.c ROOM.c ITEM.c MONSTER.c -o Dungeon7
 
 3. ** Run the game**:
    ```bash
@@ -82,5 +82,5 @@ Each victory not only symbolizes physical triumph but also represents moral grow
    
 4.**Clean Up: Remove the executable and object files**:
    ```bash
-       make clean
+   make clean
 
