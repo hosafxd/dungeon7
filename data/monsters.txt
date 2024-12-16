@@ -1,0 +1,15 @@
+7
+Monster of SLOTH
+40 0 15
+Monster of GLUTTONY
+70 10 10
+Monster of PRIDE
+80 20 20
+Monster of ENVY
+90 35 20
+Monster of WRATH
+100 25 25
+Monster of GREED
+120 30 35
+Monster of LUST
+100 30 30
