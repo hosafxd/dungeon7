@@ -1,0 +1,36 @@
+PlayerName lsqek
+PlayerHealth 50 50
+PlayerStats 10 10
+PlayerRoom SLOTH
+PlayerInventoryCount 0
+RoomCount 8
+Room HUMAN SHELF
+RoomItemCount 2
+RoomItem bat 5 15 5
+RoomItem potion 15 0 0
+Room SLOTH
+Monster Monster of SLOTH 40 40 0 15
+RoomItemCount 0
+Room GLUTTONY
+Monster Monster of GLUTTONY 70 70 10 10
+RoomItemCount 1
+RoomItem blade 15 10 10
+Room PRIDE
+Monster Monster of PRIDE 80 80 20 20
+RoomItemCount 0
+Room ENVY
+Monster Monster of ENVY 90 90 35 20
+RoomItemCount 0
+Room WRATH
+Monster Monster of WRATH 100 100 25 25
+RoomItemCount 2
+RoomItem axe 20 20 0
+RoomItem potion 15 0 0
+Room LUST
+Monster Monster of LUST 100 100 30 30
+RoomItemCount 2
+RoomItem potion 15 0 0
+RoomItem shield 30 0 15
+Room GREED
+Monster Monster of GREED 120 120 30 35
+RoomItemCount 0
