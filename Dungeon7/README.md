@@ -41,5 +41,13 @@ Each victory not only symbolizes physical triumph but also represents moral grow
 ### Steps to Build and Run the Game:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Dungeon7.git
+   git clone https://github.com/hosafxd/Dungeon7.git
    cd Dungeon7
+2. **Build the Game: Use the provided Makefile to compile the game**
+   make
+
+3. ** Run the game**
+   make run
+
+4. **Clean Up: Remove the executable and object files**
+   make clean
