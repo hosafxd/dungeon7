@@ -66,6 +66,8 @@ Each victory not only symbolizes physical triumph but also represents moral grow
 - A C compiler (e.g., GCC)
 - Make utility
 
+Please ensure in main.c -> saveGame, loadGame, listSaves path file matching to your .../Dungeon7/saveload
+
 ### Steps to Build and Run the Game:
 1. **Clone the Repository**:
    ```bash
@@ -81,6 +83,7 @@ Each victory not only symbolizes physical triumph but also represents moral grow
    make run
    
 4.**Clean Up: Remove the executable and object files**:
-   ```bash
-   make clean
+ ```bash
+     make clean
+
 
